@@ -26,7 +26,7 @@ body{
 .item{
   position: relative;
   top: 0;
-  background-color:#504991;
+  background-color:#2e72e8;
   margin: 15px;
   padding: 25px;
   border: 3px solid #000;
@@ -49,7 +49,7 @@ body{
 }
 
 #title-one {
-  background-color: #D59898;
+  background-color: #c769d1;
 } 
 
 #title-two{
