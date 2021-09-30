@@ -9,7 +9,9 @@ body {
 }
 
 #navigation {
+ background: blue
  background-color: #f6b319
+ padding : 25px;
 }
 
 .navbar-brand {
