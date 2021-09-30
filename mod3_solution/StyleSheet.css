@@ -11,7 +11,9 @@ color:red;
 }
 
 #navigation {
-    background: red
+ background-color: red
+ border-radius: 0;
+  border: 0;
 }
 
 }
