@@ -12,4 +12,8 @@ body {
  background-color: #f6b319
 }
 
+.navbar-brand {
+  padding-top: 25px;
+}
+
 }
