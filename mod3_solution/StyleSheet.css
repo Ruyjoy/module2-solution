@@ -7,7 +7,7 @@ body {
 }
 
 .navbar-default .navbar-nav > li > a {
-color:white;
+color:red;
 }
 
     
@@ -26,6 +26,7 @@ h2 {
     top: 12px;
     color: #fff;
 }
+
 
 
 .chicken {
