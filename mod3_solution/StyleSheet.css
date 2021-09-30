@@ -2,8 +2,14 @@
     box-sizing: border-box;
 }
 
+.menu {
+    width: 500px;
+    margin: 0 auto;
+}
+
 header {
-    background: #f6b319
+    background: #03a9f4
     background-color: #f6b319
+    width: 100%;
     padding : 25px;
 }
