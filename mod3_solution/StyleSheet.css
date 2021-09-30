@@ -14,8 +14,11 @@ body {
  padding : 25px;
 }
 
-.navbar-brand {
-  padding-top: 25px;
+nav{
+    background: blue
+    background-color: #f6b319
+    padding : 25px;
+
 }
 
 }
