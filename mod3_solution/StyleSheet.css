@@ -1,6 +1,5 @@
-nav{
-    background: blue
+.navbar-default{
+    background: #f6b319
     background-color: #f6b319
     padding : 25px;
-
 }
